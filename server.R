@@ -1,7 +1,6 @@
 #libraries ----
 library(shiny)
 library(tidyverse)
-library(rgdal)
 library(tmap)
 library(ggplot2)
 
