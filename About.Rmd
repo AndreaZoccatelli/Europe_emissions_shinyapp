@@ -1,0 +1,61 @@
+---
+output: html_document
+---
+
+## General info
+
+Data are from <a href="https://ec.europa.eu/eurostat/en/web/main/data/database" target="_blank">Eurostat</a> (Air emissions intensities by NACE).
+
+The unit of measure of all gas emissions is grams per euro. 
+
+## Legend 
+
+greenhouse: <a href="https://en.wikipedia.org/wiki/Greenhouse_gas" target="_blank">Greenhouse gasses</a>
+
+co2: <a href="https://en.wikipedia.org/wiki/Carbon_dioxide" target="_blank">Carbon dioxide</a> 
+
+ch4: <a href="https://en.wikipedia.org/wiki/Methane" target="_blank">Methane</a>
+
+ch4_co2: Methane (co2 equivalent)
+
+no2: <a href="https://en.wikipedia.org/wiki/Nitrous_oxide" target="_blank">Nitrous oxide</a> 
+
+no2_co2: Nitrous oxide (CO2 equivalent)
+
+hfc_co2: <a href="https://en.wikipedia.org/wiki/Hydrofluorocarbon" target="_blank">Hydrofluorocarbons</a> (CO2 equivalent)
+
+pfc_co2: <a href="https://www.eea.europa.eu/help/glossary/eper-chemicals-glossary/perfluorocarbons-pfcs" target="_blank">Perfluorocarbones</a> (CO2 equivalent)
+
+nf3_sf6_co2: Nitrogen trifluoride and sulphur hexafluoride (CO2 equivalent)
+
+co2_bio_fuel: <a href="https://www.eia.gov/energyexplained/biomass/biomass-and-the-environment.php#:~:text=Burning%20either%20fossil%20fuels%20or,a%20carbon%2Dneutral%20energy%20source." target="_blank">Carbon dioxide from biomass used as a fuel</a>
+
+acidifying_gasses: <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011gl047720" target="_blank">Acidifying gasses</a>
+
+sox_so2: <a href="https://www.eea.europa.eu/help/glossary/eper-chemicals-glossary/sulphur-oxides-sox" target="_blank">Sulphur oxides</a> (SO2 equivalent)
+
+nox_so2: Nitrogen oxides (SO2 equivalent)
+
+nh3_so2: Ammonia (SO2 equivalent)
+
+o3_precursors: <a href="https://www.eea.europa.eu/themes/air/air-quality/resources/glossary/ozone-precursor" target="_blank">Ozone precursors</a>
+
+nox_nmvoc: Nitrogen oxides 
+
+co: <a href="https://en.wikipedia.org/wiki/Carbon_monoxide" target="_blank">Carbon monoxide</a>
+
+co_nmvoc: Carbon monoxide (NMVOC equivalent)
+
+ch4_nmvoc: Methane (NMVOC equivalent)
+
+nox: <a href="https://en.wikipedia.org/wiki/NOx" target="_blank">Nitrogen oxides</a>
+
+ch3: <a href="https://en.wikipedia.org/wiki/Ammonia" target="_blank">Ammonia</a>
+
+part_u2_5: <a href="https://en.wikipedia.org/wiki/Particulates" target="_blank">Particulates</a> < 2.5µm
+
+part_u10: Particulates < 10µm
+
+non_ch4_vol: <a href="https://www.eea.europa.eu/data-and-maps/indicators/eea-32-non-methane-volatile-1" target="_blank">Non-methane volatile organic compounds (NMVOC)</a>
+
+
