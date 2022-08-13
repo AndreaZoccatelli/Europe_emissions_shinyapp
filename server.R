@@ -6,8 +6,8 @@ library(tmap)
 library(ggplot2)
 
 #import + setup ----
-eu = readRDS("eu.rds")
-yearr = read.csv("yearr.csv")
+eu = readRDS("eu.rds") #dataset with emissions data + geometries of countries
+yearr = read.csv("yearr.csv") #dataset with yearly emissions data
 
 vars <- setdiff(names(yearr), c("eu_state", "code", "year", "X"))
 
