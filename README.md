@@ -1,4 +1,4 @@
-# <a href="https://andreazoccatelli.shinyapps.io/Europe_emissions/?_ga=2.113650112.632671512.1660340380-2060757690.1659788605" target="_blank">Europe emissions</a>, R Shiny app
+# <a href="https://andreazoccatelli.shinyapps.io/Europe_emissions" target="_blank">Europe emissions</a>, R Shiny app
 
 ## The project
 A shiny app which shows the gas emissions of european countries from 2011 to 2020 
